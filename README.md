@@ -4,3 +4,5 @@ Roles:
 -Manager: Mireia Carvajal
 -Verificador: Aida Padilla
 -Comunicador: Andrea Hidalgo
+
+Link video:
